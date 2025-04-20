@@ -4,7 +4,7 @@
 POST https://blog-platform.kata.academy/api/users
 
 с телом запроса в формате JSON:
-```json
+json
 {
   "user": {
     "username": "Dk",
